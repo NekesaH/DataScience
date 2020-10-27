@@ -1,2 +1,2 @@
 # DataScience
- Various data science exercises from the packt workshop.
+ Various data science and machine learning projects
