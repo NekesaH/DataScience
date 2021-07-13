@@ -1,2 +1,3 @@
 # DataScience
-Data science exercises on packt
+
+Solution for the data science course  exercises on packt
